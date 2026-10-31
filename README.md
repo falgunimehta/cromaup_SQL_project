@@ -26,3 +26,7 @@ Description of Manufacturers Table:
 
 ·       Manufacturer_Name: The name of each external supplier or vendor, which is an essential piece of information for managing relationships with them and tracking their products in the inventory
 
+Tools used:
+
+MySQL
+
